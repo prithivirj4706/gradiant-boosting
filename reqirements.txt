@@ -1,4 +1,0 @@
-app.py
-model.py
-ad_spend.csv
-requirements.txt
